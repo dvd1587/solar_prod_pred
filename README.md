@@ -14,7 +14,7 @@ This project analyses the solar energy production data from the renewable energy
 
 <p align="center">
 Data Preparation & Cleaning: <br/>
-<a href="https://imgur.com/KjMxdLb"><img src="https://i.imgur.com/KjMxdLb.jpg" alt="Data Preparation and Cleaning I" /></a>  
+<a href="https://imgur.com/jAGgkGc"><img src="https://i.imgur.com/jAGgkGc.jpg" alt="Data Preparation and Cleaning I" /></a> 
 <br />
 <br />
 <a href="https://imgur.com/4P5chqa"><img src="https://i.imgur.com/4P5chqa.jpg" alt="Data Preparation and Cleaning II" /></a>
